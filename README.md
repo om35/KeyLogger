@@ -2,9 +2,6 @@
 
  _**M1 informatique - 2018/2019**_ 
  
-   _Université d'Aix-Marseille_
-
- 
  <img src="https://user-images.githubusercontent.com/45729715/49704169-f03c6900-fc0f-11e8-84b2-559d4b909746.png" width="180" height="80" />
  
   
