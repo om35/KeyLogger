@@ -1,6 +1,6 @@
-Projet Génie Logiciel réalisé par : OUERFELLI Mohamed; HAMANE Achraf; BOUGHAZI Meriem; HARBANE Fazia.
+# Projet Génie Logiciel réalisé par : OUERFELLI Mohamed; HAMANE Achraf; BOUGHAZI Meriem; HARBANE Fazia.
 
-M1 informatique - 2018/2019
+# M1 informatique - 2018/2019
 # Pylogger 
 ![a](https://user-images.githubusercontent.com/45729715/49702150-8a42e800-fbf5-11e8-9c71-318664333180.jpg)
 Nous proposons  un logiciel d’enregistreur de frappe implémenté sous la forme d’un court programme en python.
@@ -16,4 +16,4 @@ Informations utiles pour récuperer les fichiers .txt contenant la trace clavier
   -Mot de passe :  "python1m"
 
 
-//Remarque importante concernant l'utilisation du logiciel : si vous avez utilisé le logiciel et vous voulez changer de machine et l’exécuter sur un autre ordinateur , il faut obligatoirement ré-exécuter “initialisation.py” pour mettre à jour les chemins des fichiers et des dossiers .
+# Remarque importante concernant l'utilisation du logiciel : si vous avez utilisé le logiciel et vous voulez changer la machine et l’exécuter sur un autre ordinateur , il faut obligatoirement ré-exécuter “initialisation.py” pour mettre à jour les chemins des fichiers et des dossiers .
