@@ -1,6 +1,6 @@
-Projet Génie Logiciel réalisé par : OUERFELLI Mohamed;HAMANE Achraf;BOUGHAZI Meriem; HARBANE Fazia.
-M1 informatique - 2018/2019
+Projet Génie Logiciel réalisé par : OUERFELLI Mohamed; HAMANE Achraf; BOUGHAZI Meriem; HARBANE Fazia.
 
+M1 informatique - 2018/2019
 # Pylogger 
 ![a](https://user-images.githubusercontent.com/45729715/49702150-8a42e800-fbf5-11e8-9c71-318664333180.jpg)
 Nous proposons  un logiciel d’enregistreur de frappe implémenté sous la forme d’un court programme en python.
