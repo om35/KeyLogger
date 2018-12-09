@@ -12,3 +12,6 @@ Messagerie : Gmail
 Adresse email : "fichiertext@gmail.com"
 
 Mot de passe :  "python1m"
+
+
+Remarque: si vous avez utilisé le logiciel et vous voulez changer de machine et l’exécuter dans un autre ordinateur , il faut obligatoirement ré-exécuter “initialisation.py” pour mettre à jour les chemins des fichiers et des dossiers .
