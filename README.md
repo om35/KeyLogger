@@ -17,6 +17,6 @@ Informations utiles pour récuperer les fichiers .txt contenant la trace clavier
   -Adresse email : "fichiertext@gmail.com"
 
   -Mot de passe :  "python1m"
+  
 
-
-**Remarque  importante concernant l'utilisation du logiciel : si vous avez utilisé le logiciel et vous voulez changer la machine et l’exécuter sur un autre ordinateur , il faut obligatoirement ré-exécuter “initialisation.py” pour mettre à jour les chemins des fichiers et des dossiers .**
+**_Remarque  importante concernant l'utilisation du logiciel_ :Si vous avez exécuté le logiciel sur un ordinateur et vous voulez changer la machine et ré-exécuter le logiciel encore une fois et même si les deux fichiers FirstBoot.vbs et StopALL.vbs existent déja , il faut obligatoirement faire un double-clic sur initialization.py pour mettre à jour les chemins des fichiers de la nouvelle machine puis cliquer sur FirstBoot.vbs pour lancer le logiciel .**
