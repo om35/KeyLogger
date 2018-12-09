@@ -5,6 +5,9 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
 
 
 Informations utiles pour récuperer les fichiers .txt contenant la trrace clavier de l'utilisateur :
+
 Messagerie : Gmail  
+
 Adresse email : "fichiertext@gmail.com"
+
 Mot de passe :  "python1m"
