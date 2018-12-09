@@ -1,6 +1,8 @@
  Projet Génie Logiciel réalisé par :  **OUERFELLI Mohamed; HAMANE Achraf; BOUGHAZI Meriem; HARBANE Fazia.**
 
- _**M1 informatique - 2018/2019**_  _Université d'Aix-Marseille_
+ _**M1 informatique - 2018/2019**_  _Université d'Aix-Marseille_ 
+ 
+ ![logo-amu](https://user-images.githubusercontent.com/45729715/49704093-e0705500-fc0e-11e8-9cb7-8d4c2b2ce106.png=40*30)
  
  Pour l'utilisation de ce logiciel , vous pouvez suivre les instructions qui se trouvent dans le fichier _**TP-KeyLogger.pdf**_ .
  
