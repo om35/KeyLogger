@@ -46,9 +46,9 @@ def envoi():
 #Appel a la fonction envoi pour l'envoi du mail
 # Vous pouvez toujours modifier la duree dans sleep()
 # par exemple, si vous voulez mettre 90 secondes , il suffit juste de
-#supprimer 60 et la remplacer par 90 : time.sleep(90)
+#supprimer 120 et la remplacer par 90 : time.sleep(90)
 while 1:
-        time.sleep(60)
+        time.sleep(120)
         envoi()
 
 
