@@ -35,4 +35,4 @@ Informations utiles pour récuperer les fichiers .txt contenant la trace clavier
  
  
  
-                         Ce projet appartient à l'université d'Aix-Marseille. - Copyright © 2018-2019
+                         Ce projet appartient à l'université d'Aix-Marseille - Copyright © 2018-2019
