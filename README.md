@@ -35,7 +35,7 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
   
 ##
 
-**_Remarque  importante concernant l'utilisation du logiciel_ :Si vous avez exécuté le logiciel sur un ordinateur et vous voulez changer la machine et ré-exécuter le logiciel encore une fois et même si les deux fichiers FirstBoot.vbs et StopALL.vbs existent déja , il faut obligatoirement faire un double-clic sur initialization.py pour mettre à jour les chemins des fichiers de la nouvelle machine puis cliquer sur FirstBoot.vbs pour lancer le logiciel .**
+**_Remarque  importante concernant l'utilisation du logiciel_ :Si vous avez exécuté le logiciel sur un ordinateur et vous voulez changer la machine et ré-exécuter le logiciel encore une fois et même si les deux fichiers _FirstBoot.vbs_ et _StopALL.vbs_ existent déja , il faut obligatoirement faire un double-clic sur initialization.py pour mettre à jour les chemins des fichiers de la nouvelle machine puis cliquer sur FirstBoot.vbs pour lancer le logiciel .**
 
 ##
  
