@@ -31,7 +31,7 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
   
     * Mot de passe :  "python1m"
   
-3. Dans la boite de récéption,vous allez trouver les fichiers _key_log.txt_
+3. Dans la boite de récéption,vous allez trouver les fichiers _key_log.txt_ avec quelques informations sur l'utilisateur comme l'adresse IP et le nom d'utilisateur.
   
 ##
 
