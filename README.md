@@ -10,7 +10,7 @@ _Ce projet est encadré par **Mr Pablo ARRIGHI**_
  
 # Pylogger 
 
- **Pour l'utilisation de ce logiciel , vous pouvez suivre les instructions qui se trouvent dans le fichier  _**TP-PyLogger.pdf**_ dans le dossier principal  ** ou bien dans la rubrique _**TP-PyLogger (manuel d'utilisation)**_ dans le wiki.
+ **Pour l'utilisation de ce logiciel , vous pouvez suivre les instructions qui se trouvent dans le fichier  _**TP-PyLogger.pdf**_** dans le dossier principal  ou bien dans la rubrique _**TP-PyLogger (manuel d'utilisation)**_ dans le wiki.
 
 
 ![a](https://user-images.githubusercontent.com/45729715/49702150-8a42e800-fbf5-11e8-9c71-318664333180.jpg)
