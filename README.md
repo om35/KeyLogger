@@ -17,6 +17,7 @@ _Ce projet est encadré par **Mr Pablo ARRIGHI**_
 
 ![a](https://user-images.githubusercontent.com/45729715/49702150-8a42e800-fbf5-11e8-9c71-318664333180.jpg)
 Nous proposons  un logiciel d’enregistreur de frappe implémenté sous la forme d’un court programme en python.
+
 Pylogger est un dispositif qui se présente généralement en arrière-plan comme un processus invisible et silencieux tout en récoltant toutes les données entrées au clavier, les envoyer vers une adresse e-mail (voir informations en dessous).
 
 
@@ -28,9 +29,9 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
 
 2. Se connecter au compte gmail via : 
 
-    Adresse email : "fichiertext@gmail.com"
+    * Adresse email : "fichiertext@gmail.com"
   
-    Mot de passe :  "python1m"
+    * Mot de passe :  "python1m"
   
 3. Dans la boite de récéption,vous allez trouver les fichiers _key_log.txt_
   
@@ -38,7 +39,7 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
 
 **_Remarque  importante concernant l'utilisation du logiciel_ :Si vous avez exécuté le logiciel sur un ordinateur et vous voulez changer la machine et ré-exécuter le logiciel encore une fois et même si les deux fichiers FirstBoot.vbs et StopALL.vbs existent déja , il faut obligatoirement faire un double-clic sur initialization.py pour mettre à jour les chemins des fichiers de la nouvelle machine puis cliquer sur FirstBoot.vbs pour lancer le logiciel .**
 
-
+##
  
  
  
