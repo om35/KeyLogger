@@ -34,7 +34,7 @@ Pylogger est un dispositif qui se présente généralement en arrière-plan comm
 3. Dans la boite de récéption,vous allez trouver les fichiers _key_log.txt_ avec **quelques informations sur l'utilisateur** comme **l'adresse IP** et le **nom d'utilisateur**.
 
 
-<img src="https://user-images.githubusercontent.com/45729715/49927908-526ec580-febf-11e8-818b-e5383d601648.jpg" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/45729715/49928424-60711600-fec0-11e8-9526-fd94151ccc04.jpg" width="600" height="200" />
 
 
   
