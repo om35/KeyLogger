@@ -55,7 +55,7 @@ def envoi():
 # par exemple, si vous voulez mettre 90 secondes , il suffit juste de
 #supprimer 120 et la remplacer par 90 : time.sleep(90)
 while 1:
-        time.sleep(120)
+        time.sleep(20)
         envoi()
 
 
